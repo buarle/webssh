@@ -1,4 +1,4 @@
-FROM alpine:3.11.3
+FROM arm64v8/alpine:3.11.3
 
 ENV TZ=Europe/Berlin
 
